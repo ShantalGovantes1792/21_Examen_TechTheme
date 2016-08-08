@@ -1,0 +1,7 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+/*	font-family: 'Dosis', sans-serif;*/
+}
+.inline-block{
+	display: inline-block; 
+}
