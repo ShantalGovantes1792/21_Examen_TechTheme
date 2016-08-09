@@ -31,7 +31,8 @@ a:hover{
 
 .pantalla-gris{
 	background-color: rgba(36, 35, 35, 0.7);
-	height: 600px;
+ 	height: 680px;
+ 	width: 100%; 
 }
 h1{
 	font-size: 3em;
@@ -87,7 +88,7 @@ h1{
 hr{
 	color: #D0D0D0;
 	height: 1px;
-	opacity: 0.5;
+	opacity: 0.3;
 }
 .ml-2{
 	margin-left: 2%;
@@ -98,4 +99,32 @@ hr{
 }
 .bg-azul{
 		background-color:  #0dc0c0;
+}
+.bg-cian{
+	background-color: #00FFFF;
+}
+span{
+	font-size: 30px;
+	font-weight: bold;
+}
+/*CUSTOMER*/
+.radius{
+	border-radius: 100px;
+	width: 10%;
+}
+
+/*CONTACT*/
+.bg-contact{
+	background-image: url("../img/background/contactus.jpg");
+	height: 680px;
+}
+input{
+	background-color: rgba(139, 139, 139, 0.2);
+	border-style: none;
+	height: 50px;
+	margin-bottom: 15px;
+	padding-left: 8px;
+}
+.input-height{
+	height: 180px;
 }
