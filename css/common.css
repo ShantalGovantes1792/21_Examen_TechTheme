@@ -6,7 +6,9 @@ body{
 	display: inline-block; 
 }
 
-
+h2{
+	font-size: 30px;
+}
 /*CLASES SHANTAL*/
 #primes{
 	font-size: 1.5em;
