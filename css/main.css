@@ -1,0 +1,16 @@
+.fondo-white{
+	background-color: white;
+}
+.botones{
+
+}
+li{
+	list-style: none;
+	text-align: center;
+}
+.fondo-call{
+	background-image: url(../img/background/city.jpg);
+}
+.fondo-footer{
+	background-color: #424242;
+}
